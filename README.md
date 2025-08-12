@@ -1,4 +1,4 @@
-
+# Predicting Heart Disease Risk Using Machine Learning
 Heart disease has become one of the leading causes of deaths globally. Now with health data and machine learning (ML), we can now finally have a greater chance of being able to predict it long before it happens.  This project support the Sustainable Development Goal 3 (SDG 3) which is aiming at promoting healthy living and well-being of all people. The dataset is publicly available on Kaggle under a CC0 Public Domain license, meaning it can be used freely for research and education. The ain of this project is to create predictive models with the help of machine learning algorithms, such as Logistic Regression and XGBoost, which would be able to evaluate the risk of heart disease in a person based on the specified features.
 
 # Preparation
@@ -21,9 +21,9 @@ Heart disease has become one of the leading causes of deaths globally. Now with 
 
 # Data Product
 <img width="2579" height="993" alt="image" src="https://github.com/user-attachments/assets/6887529f-b233-48e0-b5c6-cc31c0faf948" />
-- Platform: Google Colab + ipywidgets.
-- Function: Users input health data via sliders/dropdowns → System returns risk prediction.
-- Use Cases: Doctor decision support, self-assessment, rural health checks.
+- Platform: Google Colan and ipywidget.
+- Function: Users input health data via sliders/dropdowns that return heart disease risk prediction.
+- Use Case: Doctor decision support, self-assessment, rural health checks.
 
 
 
