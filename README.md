@@ -11,8 +11,8 @@ Heart disease has become one of the leading causes of deaths globally. Now with 
 
 <img width="1279" height="962" alt="image" src="https://github.com/user-attachments/assets/fe87f228-8360-4bd9-96be-6f3dd11feb90" />
 - Meanwhile, numerical correlation with target was analyze by Correlation Matrix Heatmap.
-- (+) correlation: Higher feature values are linked with a **higher** chance of heart disease.
-- (-) correlation: Higher feature values are linked with a **lower** chance of heart disease.
+- Positive correlation: Higher feature values are linked with a **higher** chance of heart disease.
+- Negative correlation: Higher feature values are linked with a **lower** chance of heart disease.
 - Key Insights: - Thalassemia (Thal), Major Vessels (CA), Chest Pain Type (CP) is top predictor
                 - Cholesterol & resting blood pressure showed weak correlation in this dataset.
 
@@ -22,9 +22,9 @@ Heart disease has become one of the leading causes of deaths globally. Now with 
 
 # Data Product
 <img width="2579" height="993" alt="image" src="https://github.com/user-attachments/assets/6887529f-b233-48e0-b5c6-cc31c0faf948" />
-- **Platform:** Google Colab + ipywidgets.
-- **Function:** Users input health data via sliders/dropdowns → System returns risk prediction.
-- **Use Cases:** Doctor decision support, self-assessment, rural health checks.
+- Platform: Google Colab + ipywidgets.
+- Function: Users input health data via sliders/dropdowns → System returns risk prediction.
+- Use Cases: Doctor decision support, self-assessment, rural health checks.
 
 
 
