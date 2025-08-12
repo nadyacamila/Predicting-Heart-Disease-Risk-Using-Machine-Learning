@@ -25,6 +25,8 @@ Heart disease has become one of the leading causes of deaths globally. Now with 
 - Function: Users input health data via sliders/dropdowns that return heart disease risk prediction.
 - Use Case: Doctor decision support, self-assessment, rural health checks.
 
-
+# Conclusion & Recommendation
+In conclusion, this project demonstrates that machine learning **can work together with healthcare data and reinforce early heart disease detection**. The models developed can be integrated with more advanced systems, and the interactive tool shows how data products can support both doctors and patients. However, before being used in the real world, the system needs to be **tested on larger, more diverse datasets and medically validated to ensure it is safe and effective.
+**
 
 
