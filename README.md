@@ -24,7 +24,7 @@ Heart disease has become one of the leading causes of deaths globally. Now with 
 # Data Product
 <img width="2579" height="993" alt="image" src="https://github.com/user-attachments/assets/6887529f-b233-48e0-b5c6-cc31c0faf948" />
 - **Platform:** Google Colab + ipywidgets.
--** Function:** Users input health data via sliders/dropdowns → System returns risk prediction.
+- **Function:** Users input health data via sliders/dropdowns → System returns risk prediction.
 - **Use Cases:** Doctor decision support, self-assessment, rural health checks.
 
 
